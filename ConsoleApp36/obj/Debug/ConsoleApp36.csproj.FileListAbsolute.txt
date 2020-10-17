@@ -1,0 +1,6 @@
+C:\Users\Наташа\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.exe.config
+C:\Users\Наташа\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.exe
+C:\Users\Наташа\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.pdb
+C:\Users\Наташа\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.csprojAssemblyReference.cache
+C:\Users\Наташа\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.exe
+C:\Users\Наташа\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.pdb
